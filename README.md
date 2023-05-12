@@ -3,7 +3,7 @@ This is the official implementation of the paper"A Structure-aware Framework of 
 
 A preliminary version of this work has been published as a conference paper in AAAI2023 Reducing Domain Gap in Frequency and Spatial domain for Cross-modality Domain Adaptation on Medical Image Segmentation
 
-#Abstract 
+# Abstract 
 Unsupervised domain adaptation (UDA) aims
 to train a model on a labeled source domain and adapt
 it to an unlabeled target domain. In medical image segmentation field, most existing UDA methods rely on adversarial learning to address the domain gap between different image modalities. However, this process is complicated and inefficient. In this paper, we propose a simple
@@ -19,4 +19,7 @@ domain-variant image style bias. Additionally, we further
 propose a dual contrastive learning module at both image and pixel levels to learn structure-related information.
 Our proposed method outperforms state-of-the-art methods on two cross-modality medical image segmentation
 datasets (cardiac and abdominal). 
+
+![image](https://github.com/slliuEric/FSUDA/assets/57536012/3889dd33-af73-49ab-bec5-106e39f7525a)
+
 
