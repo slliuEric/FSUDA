@@ -26,7 +26,7 @@ datasets (cardiac and abdominal).
 # Citation
 If you use this code for your research, please cite our paper.
 
-@article{liu2022reducing,,<br>
+@article{liu2022reducing,<br>
   title={Reducing Domain Gap in Frequency and Spatial domain for Cross-modality Domain Adaptation on Medical Image Segmentation},<br>
   author={Liu, Shaolei and Yin, Siqi and Qu, Linhao and Wang, Manning},<br>
   journal={arXiv preprint arXiv:2211.15235},<br>
