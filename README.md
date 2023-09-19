@@ -1,4 +1,4 @@
-# A Structure-aware Framework of Unsupervised Cross-Modality Domain Adaptation via Frequency and Spatial Knowledge Distillation
+# [TMI2023]A Structure-aware Framework of Unsupervised Cross-Modality Domain Adaptation via Frequency and Spatial Knowledge Distillation
 This is the official implementation of the paper"A Structure-aware Framework of Unsupervised Cross-Modality Domain Adaptation via Frequency and Spatial Knowledge Distillation“
 
 A preliminary version of this work has been published as a conference paper [AAAI23' Reducing Domain Gap in Frequency and Spatial domain for Cross-modality Domain Adaptation on Medical Image Segmentation](https://arxiv.org/pdf/2211.15235.pdf)
